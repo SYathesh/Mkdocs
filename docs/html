@@ -1,0 +1,33 @@
+<div style="text-align: center;">
+
+# Index
+
+1. **Introduction**
+   - Purpose
+   - Scope
+   - Activities in Robo calls
+
+2. **Data Maintenance**
+   - Responsible
+   - Process detail
+   - Reviewer
+
+3. **Report Generation**
+   - Responsible
+   - Daily Calls tracker
+   - Monthly Call Report
+   - Process detail
+   - Reviewer
+
+4. **Server Monitoring and Network Handle**
+
+5. **Escalation Matrix**
+
+</div>
+
+<select onchange="window.location.href=this.value">
+    <option value="../v1.0/index.md">Version 1.0</option>
+    <option value="../v1.1/index.md">Version 1.1</option>
+    <option value="../v2.0/index.md">Version 2.0</option>
+</select>
+
