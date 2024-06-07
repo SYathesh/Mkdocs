@@ -44,7 +44,7 @@ theme:
 nav:
   - Version 1.0: .\RoboCall\Robo_Call.md
   - Version 1.1: .\Store_&_Call_Center_CRM\Advaita.md
-  - Version 2.0: .\FAQ.md
+  - Version 2.0: .\docs\FAQ.md
   
 extra:
   hide: 
